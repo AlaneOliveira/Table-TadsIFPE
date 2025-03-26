@@ -1,5 +1,3 @@
-from Data.example import create_example
+from example import create_biblioteca_database
 
-dataframes = create_example()
-
-dataframes
+create_biblioteca_database()
